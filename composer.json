@@ -38,5 +38,6 @@
     },
     "scripts-descriptions": {
         "check" : "Roda a as verificações do código."
-    }
+    },
+    "bin": ["buscar-cursos.php"]
 }
